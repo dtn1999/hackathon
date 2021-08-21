@@ -7,10 +7,11 @@ each branch will present a specifc topic. To start using the project look in the
 
 to fullfill this tutorial the learner need to have an IDE of his choice and git already install. If you don't have git install go to following [link](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 after you have all install clone the repository.
-`
-git clone https://github.com/dtn1999/hackathon.git tuto
 
-`
+```bash
+git clone https://github.com/dtn1999/hackathon.git tuto
+```
+
 after that open the project in your IDE.
 
 HAPPY HACKING 😉
